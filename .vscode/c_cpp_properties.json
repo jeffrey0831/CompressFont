@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/MinGW/include",
+                "C:/MinGW/lib/gcc/mingw32/8.2.0/include",
+                "${workspaceFolder}",
+                "${workspaceFolder}/GUI/Core"
+            ],
+            "defines": [
+                "__CC_ARM",
+                "_DEBUG",
+                "UNICODE"
+            ],
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "browse": {
+                "path": [
+                    "C:/MinGW/include",
+                    "C:/MinGW/lib/gcc/mingw32/8.2.0/include",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "gui.h": "c",
+            "stdio.h": "c",
+            "stdlib.h": "c",
+            "gui_confdefaults.h": "c",
+            "guiconf.h": "c",
+            "gui_private.h": "c",
+            "gui_protected.h": "c",
+            "stddef.h": "c"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "files.encoding": "gb18030",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontSize": 16,
+    "C_Cpp.dimInactiveRegions": false,
+    "code-runner.executorMap": {
+        "c": "gcc *.c .\\GUI\\Core\\*.c -I.\\GUI\\Core -o .\\Bin\\CompressFont && .\\Bin\\CompressFont.exe"
+    }
+}
